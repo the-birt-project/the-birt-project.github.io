@@ -1,5 +1,5 @@
-# <p align="center">BIRT Incident Response & Triage</p>
+# BIRT Incident Response & Triage
 
-### <p align="center">Tutorials, How-To's and technical information about BIRT</p>
+### Tutorials, How-To's and technical information about BIRT
 
-Foo
+#### Coming Soon...
