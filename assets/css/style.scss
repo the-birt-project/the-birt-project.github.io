@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-midnight";
 
+header {
+    display: none;
+}
+
 body {
     background: #18181A !important;
     color: #fff !important;
