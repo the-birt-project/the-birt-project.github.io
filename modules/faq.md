@@ -2,7 +2,8 @@
 <br><br>
 [Back](../index.md)
 ## **What is BIRT?**
-A collaborative Incident Response forensics platform designed for rapid tactical deployment
+A collaborative incident response forensics platform designed for rapid tactical deployment. The application scales with the need, from a laptop to enterprise solutions.
+
 
 ## **What does it do?**
 - Parses forensic artifacts or exported SIEM events into normalized timestamped events.
