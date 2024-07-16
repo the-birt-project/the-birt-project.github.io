@@ -26,6 +26,13 @@ The MTE handles the Micro-Technique rules and their state-transitions while reco
 
 The evidence graph contains all of the labelled evidence and contextual data and is broken up into process groups.  Each process group is a logical partition an endpoint.  For example, evidence that includes children of the Windows GUI (explorer.exe) are grouped together.
 
+## **What is an Investigation?**
+An Investigation is a named container of evidence.  When events or evidence is found to be part of the narrative forming during the course of analysis, an investigator can add these events to the currently selected Investigation.  The Investigation object will gather additional metadata and context when events and/or evidence is added.  When behavioral data such as EDR, Sysmon, Auditd, etc are present, the process tree is walked back to it's root for additional context.  This creates a rich and intuitive view into intrusions that reduces cognitive workload and accelerates response efforts.
+
+The Investigation creates a global and individual timelines for each endpoint, process/event hierarchies, a graphical timeline and an exportable report.  Investigators can leave comments on individual events or groups, modify evidence timestamps to better align small offsets and prune unnecessary events.  Reporting and summary analysis can be generated with LLM's such as ChatGPT. or locally hosted alternatives.
+
+The Investigation intends to serve an offering at each understanding "altitude" of the stakeholders.  From technical investigator to security management and then to CTO/CISO.
+
 ## **Does BIRT have an API for my SOAR or other Orchestration tools?**
 Yes! BIRT has a python API class that can:
 
