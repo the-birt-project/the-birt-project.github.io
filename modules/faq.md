@@ -1,4 +1,4 @@
-# <span style="display: flex;justify-content: center;">B<span style="color: #EA3E5D;">IR</span>T Frequently Asked Questions (FAQ)</span>
+# <span class="center-text">B<span style="color: #EA3E5D;">IR</span>T Frequently Asked Questions (FAQ)</span>
 
 ### **What is BIRT?**
 A collaborative Incident Response forensics platform designed for rapid tactical deployment

@@ -1,5 +1,5 @@
 # <span class="center-text">B<span style="color: #EA3E5D;">IR</span>T Incident Response & Triage</span>
-## <span style="display: flex;justify-content: center;">The Collaborative Forensics Platform</span>
+## <span class="center-text">The Collaborative Forensics Platform</span>
 
 # Site Index
 - [Guides and Other Resources](modules/guide_menu.md)
