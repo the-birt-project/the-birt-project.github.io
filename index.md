@@ -1,5 +1,11 @@
-# B<span style="color: #EA3E5D;">IR</span>T Incident Response & Triage
+# <span class="center-text">B<span style="color: #EA3E5D;">IR</span>T Incident Response & Triage</span>
+## <span style="display: flex;justify-content: center;">The Collaborative Forensics Platform</span>
 
-### Tutorials, How-To's and technical information about B<span style="color: #EA3E5D;">IR</span>T
-
-#### Coming Soon...
+# Site Index
+- [Guides and Other Resources](modules/guide_menu.md)
+- [Application FAQ](modules/faq.md)
+<br/><br/>
+# External Resources
+- [The BIRT Project Website](https://www.thebirtproject.com)
+- [YouTube Tutorials](https://www.youtube.com/@TheBIRTProject)
+- [LinkedIn](https://www.linkedin.com/company/the-birt-project/about/)
