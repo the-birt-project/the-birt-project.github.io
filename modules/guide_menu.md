@@ -2,9 +2,13 @@
 <br><br>
 [Back](../index.md)
 ## Guides
-- [Getting Started]() **[Coming Soon]**
-- [Endpoint Data]() **[Coming Soon]**
-- [Evidence Views]() **[Coming Soon]**
-- [Investigations]() **[Coming Soon]**
-- [Micro Techniques]() **[Coming Soon]**
-- [Reporting]() **[Coming Soon]**
+- [Getting Started](./guides/getting_started.md) **Added 7/16/2024**
+
+## Documentation
+- [Endpoint Data](./guides/endpoint_data.md) **Added 7/17/2024**
+- [Evidence Views](./guides/evidence_views.md) **Added 7/18/2024**
+- [Investigations](./guides/investigations.md) **Added 7/22/2024**
+- [Micro Techniques](./guides/micro_techniques.md) **Added 7/23/2024**
+
+<br><br>
+[Back](../index.md)

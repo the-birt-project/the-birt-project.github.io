@@ -15,7 +15,6 @@ A collaborative incident response forensics platform designed for rapid tactical
 - Reports are generated from Investigations and can be viewed in real-time, or exported as a PDF.
 
 ## **What artifact types are supported?**
-
 Every file processed is broken down into one or more events with a timestamp.  The files that do not match any recognized patterns fall into a catch-all artifact event type that uses the processing time as the time stamp.  This can be overridden if the artifact is added to an Investigation.
 
 Events are hierarchically linked, where applicable, and these structures are useful when reconstructing the endpoint and building Micro-Techniques.  EDR events, Registry, $MFT and other File Tables retain their hierarchies, for example.
@@ -84,3 +83,6 @@ Suggested System Requirements:
 - 8+ CPU (Zen 3+)
 - 32+GB memory
 - NVME, 128GB+
+
+<br><br>
+[Back](../index.md)

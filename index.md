@@ -1,10 +1,13 @@
 # <span class="center-text">B<span style="color: #EA3E5D;">IR</span>T Incident Response & Triage</span>
 ## <span class="center-text">The Collaborative Forensics Platform</span>
 <br><br>
+Documents, guides and more.
+
+Please read the [FAQ](modules/faq.md) if you're new.
 
 # Site Index
-- [Guides and Other Resources](modules/guide_menu.md)
 - [Application FAQ](modules/faq.md)
+- [Guides and Documentation](modules/guide_menu.md)
 <br><br>
 
 # External Resources
