@@ -3,6 +3,7 @@
 [Back](../index.md)
 ## Guides
 - [Getting Started](./guides/getting_started.md) **Added 7/16/2024**
+- [Automated Reporting with LLM's](./guides/automated_reporting.md) **Added 7/31/2024**
 
 ## Documentation
 - [Endpoint Data](./guides/endpoint_data.md) **Added 7/17/2024**
